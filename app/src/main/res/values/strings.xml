@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">FirebaseRealtimeDB</string>
+    <string name="button_name">Add</string>
+    <string name="hint_team">Team</string>
+    <string name="hint_wins">Wins</string>
+    <string name="hint_losses">Losses</string>
+    <string name="hint_league">League</string>
+</resources>
